@@ -2,7 +2,7 @@
 Tanker game written in java using java-Fx
 
 
-<b>Requirements</b>&nbsp;:Make sure you have Java installed on your system. Check this by typing java -version into the command terminal<br>
+<b>Requirements</b>&nbsp;:Make sure you have Java installed on your system. Check this by typing <b>'java -version'</b> into the command terminal<br>
  
 ![screenshot 36](https://cloud.githubusercontent.com/assets/21128320/25834804/e8c9120e-3497-11e7-9f58-831baf8f72d2.png)
 
